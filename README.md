@@ -1,0 +1,2 @@
+# Redux-goodness
+discovering Redux
