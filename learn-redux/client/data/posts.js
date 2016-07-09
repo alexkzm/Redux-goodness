@@ -167,7 +167,6 @@ const posts = [
       "id":"1118481761857291950",
       "display_src":"https://scontent.cdninstagram.com/hphotos-xpt1/t51.2885-15/e35/11326072_550275398458202_1726754023_n.jpg"
    }
-];
+]
 
-
-export default posts;
+export default posts
